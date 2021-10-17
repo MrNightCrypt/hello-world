@@ -12,7 +12,7 @@ st.write("""
 ##### Finding Squared Number of User Interface with slider
          
     Hello...! This is a test of very first my streamlit web app
-    မင်္ဂလာပါ ပထမဆုံး ဝက်ဘ်ဆိုဒ် စမ္းသပ္ျခင္းပါ...။
+    မင်္ဂလာပါ ပထမဆုံး ဝက်ဘ်ဆိုဒ် စမ်းသပ်ခြင်းပါ...။
          """)
 # ျ  = s
 x = st.slider('Select a value')
